@@ -40,10 +40,10 @@
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Chandru's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandranainar&show_icons=true&theme=radium" alt="Chandru's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="Chandru's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandranainar&theme=radium" alt="Chandru's GitHub Streak" />
 </p>
 
 ---
